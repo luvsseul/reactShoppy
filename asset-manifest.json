@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d472591.css",
-    "main.js": "/static/js/main.5fd79ff8.js",
-    "static/js/592.5fcc0339.chunk.js": "/static/js/592.5fcc0339.chunk.js",
-    "static/media/banner.jpg": "/static/media/banner.48d0e3c401809bbab853.jpg",
-    "index.html": "/index.html",
-    "main.4d472591.css.map": "/static/css/main.4d472591.css.map",
-    "main.5fd79ff8.js.map": "/static/js/main.5fd79ff8.js.map",
-    "592.5fcc0339.chunk.js.map": "/static/js/592.5fcc0339.chunk.js.map"
+    "main.css": "/reactShoppy/static/css/main.4b972bea.css",
+    "main.js": "/reactShoppy/static/js/main.b2bb5638.js",
+    "static/js/592.5fcc0339.chunk.js": "/reactShoppy/static/js/592.5fcc0339.chunk.js",
+    "static/media/banner.jpg": "/reactShoppy/static/media/banner.48d0e3c401809bbab853.jpg",
+    "index.html": "/reactShoppy/index.html",
+    "main.4b972bea.css.map": "/reactShoppy/static/css/main.4b972bea.css.map",
+    "main.b2bb5638.js.map": "/reactShoppy/static/js/main.b2bb5638.js.map",
+    "592.5fcc0339.chunk.js.map": "/reactShoppy/static/js/592.5fcc0339.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d472591.css",
-    "static/js/main.5fd79ff8.js"
+    "static/css/main.4b972bea.css",
+    "static/js/main.b2bb5638.js"
   ]
 }
